@@ -1,0 +1,28 @@
+{
+  "name": "parcel-vue-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastar3104/parcel-vue-element.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastar3104/parcel-vue-element/issues"
+  },
+  "homepage": "https://github.com/mastar3104/parcel-vue-element#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-vue": "^2.0.0",
+    "element-ui": "^2.0.8",
+    "parcel-bundler": "^1.2.1",
+    "parcel-plugin-vue": "^1.4.0",
+    "vue": "^2.5.13",
+    "vue-template-compiler": "^2.5.13"
+  }
+}
